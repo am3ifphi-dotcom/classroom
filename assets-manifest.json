@@ -1,0 +1,466 @@
+{
+  "recorded_on": "2026-10-14",
+  "sources": [
+    {
+      "repository": "https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator",
+      "head_at_recording": "675e21e04aaff8486a3a24e09573b3d5af9d28b9"
+    },
+    {
+      "repository": "https://github.com/ElizaWy/LPC",
+      "head_at_recording": "f07f7f5892e67c932c68f70bb04472f2c64e46bc"
+    },
+    {
+      "repository": "https://github.com/Davi-info/institute-of-evil---game",
+      "head_at_recording": "6f924bb6200384e189417d202b4a892b6746fe8a"
+    },
+    {
+      "repository": "https://github.com/Calinou/kenney-particle-pack",
+      "head_at_recording": "ab7086639ee73be31abd87feb21bf1402d4e8144"
+    },
+    {
+      "repository": "https://github.com/llamacademy/music-fader",
+      "head_at_recording": "e5e484bf06116849d0d845e67cc06ae66153516f"
+    },
+    {
+      "repository": "https://github.com/iwenzhou/kenney",
+      "head_at_recording": "b7729283e47d38f203d85560cfda5b2c1fd6fc7e"
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/audio/TownTheme.mp3",
+      "sha256": "2657861d5107d4a3c01ef81cb6a4d61ddd5e7a054b6da57e658373d79d0c3466",
+      "bytes": 1316581
+    },
+    {
+      "path": "assets/audio/battleThemeA.mp3",
+      "sha256": "6042399782e581d753d616bc703e66483d5eccb5fb687a20c9a552d68c49e620",
+      "bytes": 3289143
+    },
+    {
+      "path": "assets/audio/bookOpen.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "bytes": 8273
+    },
+    {
+      "path": "assets/audio/click1.ogg",
+      "sha256": "fa77d595b21e7b206b7eb10eacb0663def8f6d8658df17b7cef7a0125c86046e",
+      "bytes": 6952
+    },
+    {
+      "path": "assets/audio/doorClose_1.ogg",
+      "sha256": "834d29c60a8a8bfb50b158cdb6b7dfa8f02812a408a1ee9703d038dfab0b1aeb",
+      "bytes": 18564
+    },
+    {
+      "path": "assets/audio/doorOpen_1.ogg",
+      "sha256": "4ab93bab96522d8eb109ff96dc57cb6765deb02448fe14c10472084be5bb2a0b",
+      "bytes": 22848
+    },
+    {
+      "path": "assets/audio/footstep00.ogg",
+      "sha256": "6fe61ef1fc3bcf0e253bf2eb64759db6cb69e2fe452f4d88cc597ecf78a3d601",
+      "bytes": 9475
+    },
+    {
+      "path": "assets/audio/footstep01.ogg",
+      "sha256": "313472dba31fd0c855376069fa368bb5a198c27251cc8398ef464578b7047a4c",
+      "bytes": 9900
+    },
+    {
+      "path": "assets/audio/rollover2.ogg",
+      "sha256": "e720dfca66dd571b09dcfeeb68235789f143bfb5603cdeca01e023f310af9b10",
+      "bytes": 5838
+    },
+    {
+      "path": "assets/characters/LICENSE.txt",
+      "sha256": "5e4b44cab3933b44c623116649ed587513e998a94a6b822f5e36950370209a2f",
+      "bytes": 1222
+    },
+    {
+      "path": "assets/characters/mie-cast.png",
+      "sha256": "812a2489fd2bd0bf810fbe68a9981b39e326d415379f5323dc8354c448f60d73",
+      "bytes": 23489
+    },
+    {
+      "path": "assets/characters/mie.png",
+      "sha256": "09a3e6a7ea2f2f9c03aaae0c7434f05d0dfff0d8d2063b8b154247f3bffb1f26",
+      "bytes": 29936
+    },
+    {
+      "path": "assets/characters/mie-portrait.png",
+      "sha256": "e2666c321bb47788442da647aeff76c84ba6e6c03e6403db636b38387e045fdb",
+      "bytes": 3378
+    },
+    {
+      "path": "assets/characters/rei-cast.png",
+      "sha256": "5f2b06fcf56d723dfcf3d18d3381e9647db455c12e20dec8f47086fedbda9988",
+      "bytes": 25194
+    },
+    {
+      "path": "assets/characters/rei-portrait.png",
+      "sha256": "0122788c82264e9e663c83811a753257ad3c861e903320efac549e0b4c0468f8",
+      "bytes": 3621
+    },
+    {
+      "path": "assets/characters/rei.png",
+      "sha256": "3a5e05b95241ffc3e8860fecae6c9fc06f337594193fc45e655068035daa5753",
+      "bytes": 32240
+    },
+    {
+      "path": "assets/characters/ryoma-cast.png",
+      "sha256": "dc5d30f93c1cd6c1d66e0ab306dd441d78186f4474f0519ed7e720055c535dec",
+      "bytes": 25253
+    },
+    {
+      "path": "assets/characters/ryoma-portrait.png",
+      "sha256": "d37da153e26b981bd3e14a99e9b6de844895bb921f192bf2085ecb21f38f3611",
+      "bytes": 3715
+    },
+    {
+      "path": "assets/characters/ryoma.png",
+      "sha256": "ce75ff3b3372c15ccc130c70d404461d6512e91ef768103ec77093b8fd70c45a",
+      "bytes": 32200
+    },
+    {
+      "path": "assets/characters/satou-cast.png",
+      "sha256": "3b26eecc133034ec573988bde33d10c41762a56b97cdc2de27bd6767f8d92c36",
+      "bytes": 25867
+    },
+    {
+      "path": "assets/characters/satou-portrait.png",
+      "sha256": "6e418d458ace96f0bf062d74f502cb3ab410ab39c3f2d80d68d20dae186756ae",
+      "bytes": 3708
+    },
+    {
+      "path": "assets/characters/satou.png",
+      "sha256": "590b8b0950d8e3273fa549236e3a9f03c2e48756db60469a8f2c3674ffade5d7",
+      "bytes": 33475
+    },
+    {
+      "path": "assets/characters/terachi-cast.png",
+      "sha256": "9b09172cb6172d14057cb9061ff0ab40cb9d481c3759015ac4e7ef6cf77e71d5",
+      "bytes": 25215
+    },
+    {
+      "path": "assets/characters/terachi-portrait.png",
+      "sha256": "58cdad141f553945fc7a8e0d5d1cf18159d565e8f6460fcb306c95c7a76abf19",
+      "bytes": 3759
+    },
+    {
+      "path": "assets/characters/terachi.png",
+      "sha256": "3370d76245f7079e8fa2e21b9c521673cbf8156daedea34026469bb02234a015",
+      "bytes": 32450
+    },
+    {
+      "path": "assets/effects/LICENSE.txt",
+      "sha256": "7edd59126c258e602e69905a0517cf51bedea489b1a69eb06a77edee1769e81e",
+      "bytes": 629
+    },
+    {
+      "path": "assets/effects/light_01.png",
+      "sha256": "e15db5a8ccea012f4df82689f1a829bdaac04fd8a3066a723f157e0b01ffbf0a",
+      "bytes": 86592
+    },
+    {
+      "path": "assets/effects/magic_01.png",
+      "sha256": "4530b084d541351c779aac12877e831a398f7e4575126fa2a26c5eb2c47ca37b",
+      "bytes": 77122
+    },
+    {
+      "path": "assets/effects/magic_03.png",
+      "sha256": "b4702e45c034d9ca22a9c45c051105502ac51e26523740782fd8fd77ebea4b83",
+      "bytes": 55275
+    },
+    {
+      "path": "assets/effects/smoke_03.png",
+      "sha256": "03c219c4384206174c44ff6997ffdabd1bd4354709b9569f957bf9aa75e7dafd",
+      "bytes": 38182
+    },
+    {
+      "path": "assets/effects/spark_01.png",
+      "sha256": "ca5e7eac772d5af176f0d45be34f416908859bf28697c31f3ec7f34609919f53",
+      "bytes": 89628
+    },
+    {
+      "path": "assets/effects/star_01.png",
+      "sha256": "4cd179dbc319bfbe13a685abc6f3f4e8e668f4e1aff828bd86baddf0d20c72a7",
+      "bytes": 39485
+    },
+    {
+      "path": "assets/icons/bag.png",
+      "sha256": "9b3025f4b256be49ad39243d1a53073ea322bce051b20745cdd742cea9009583",
+      "bytes": 640
+    },
+    {
+      "path": "assets/icons/journal.png",
+      "sha256": "8b458f27680f1d2bd9baec04883c4bf65319b9d7d902af0ee9eb36364da58504",
+      "bytes": 487
+    },
+    {
+      "path": "assets/licenses/cynicmusic.txt",
+      "sha256": "6140f0e09e7c31b166b5a62c36c04f922b23986d3f735c9b6f6d9d86075a7f99",
+      "bytes": 160
+    },
+    {
+      "path": "assets/licenses/eliza-README.md",
+      "sha256": "17d205b3243ff635139edc10e9f2b95e1d1cf7497e53c79b370abc3730dac88d",
+      "bytes": 2359
+    },
+    {
+      "path": "assets/licenses/eliza-credits.txt",
+      "sha256": "794bf995ef2498603bc4250155da687ca256a9246a8e2a68ebab3270ee924a15",
+      "bytes": 1522
+    },
+    {
+      "path": "assets/licenses/floor-credits.txt",
+      "sha256": "056b180b0196e6f4d519087504452bfbd8d8c7eea1c13c43f1114d1ffdd1acd0",
+      "bytes": 2953
+    },
+    {
+      "path": "assets/licenses/furniture-credits.txt",
+      "sha256": "a8b68ab8853d14ad1712c5d8203889766ba035bbec17e28cc0bab2ecc65bfdcb",
+      "bytes": 9397
+    },
+    {
+      "path": "assets/licenses/kenney-CC0.md",
+      "sha256": "f099c122402e390ecf188e40ac874b85ff2302f40262d279c66d4e1fa403a1ea",
+      "bytes": 6974
+    },
+    {
+      "path": "assets/licenses/wall-credits.txt",
+      "sha256": "ceb46b36c03f0d83f7f274046c7d79586a7f36e72cec922ce071d383e51f22fe",
+      "bytes": 4180
+    },
+    {
+      "path": "assets/licenses/fonts/Shippori-Mincho-OFL.txt",
+      "sha256": "e1351ed30eb311d8eaeb3d6f915f1035ab359e767c73510f73cc8d43a7c63822",
+      "bytes": 4893
+    },
+    {
+      "path": "assets/licenses/fonts/Zen-Kaku-Gothic-New-OFL.txt",
+      "sha256": "f985b5f317c6b25b73f86d0071c584f3159c0de6cf1126e6ef57ab04698b0592",
+      "bytes": 4851
+    },
+    {
+      "path": "assets/licenses/lpc/CREDITS.csv",
+      "sha256": "5dccae7f859d6ca53a6daaf5a772272202c21cfd77fa21bd154473ab3ea3d93e",
+      "bytes": 171768
+    },
+    {
+      "path": "assets/licenses/lpc/LICENSE",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    },
+    {
+      "path": "assets/licenses/lpc/body.json",
+      "sha256": "2d6d0d5b6dea8ab7da6af8a5a3a376534e26c5dcb67142cffd83066f35cc6922",
+      "bytes": 8371
+    },
+    {
+      "path": "assets/licenses/lpc/eyes.json",
+      "sha256": "492333ae1b8a3cd35c27703247e16c38331f820dc7b0b9c9a9686d2243bd1577",
+      "bytes": 1802
+    },
+    {
+      "path": "assets/licenses/lpc/facial_glasses.json",
+      "sha256": "a0ac8bcb994b38be0ee4e986fe01e1c4613f3ea0477a32f562ee36d99f353bb9",
+      "bytes": 1489
+    },
+    {
+      "path": "assets/licenses/lpc/feet_shoes.json",
+      "sha256": "a077cc29bc1f495a86f32c43373e8d69c4f38d16201171d14d2703bb1b833b06",
+      "bytes": 1577
+    },
+    {
+      "path": "assets/licenses/lpc/hair_bedhead.json",
+      "sha256": "7e96e9d4c4c1c1a707e40b64b0edc76913b619d02337a045c341597e53761149",
+      "bytes": 982
+    },
+    {
+      "path": "assets/licenses/lpc/hair_messy2.json",
+      "sha256": "154a2341716196c6a2ddd539e0ac0fc5e04ffed1cc89af71232ba842fb3a1cb0",
+      "bytes": 975
+    },
+    {
+      "path": "assets/licenses/lpc/hair_mop.json",
+      "sha256": "144c94dfdc451cd9a116ed3e98482e0161214f5f01bde2a8cc2634074a0dbd65",
+      "bytes": 1019
+    },
+    {
+      "path": "assets/licenses/lpc/hair_parted.json",
+      "sha256": "6249b360fafca245bf126b396a87e9e8a8a2d3a1e7f1f6e48c5553f972ea34c4",
+      "bytes": 1228
+    },
+    {
+      "path": "assets/licenses/lpc/hair_spiked.json",
+      "sha256": "fe0713ffe0af6d460433bcf82f9b69f5f65f529715031d6e5764a8775af4b294",
+      "bytes": 989
+    },
+    {
+      "path": "assets/licenses/lpc/heads_human_male.json",
+      "sha256": "30776208a362e277fe221cea704ce0a4d560a131ea63508b68fe1b6e0086a0da",
+      "bytes": 1516
+    },
+    {
+      "path": "assets/licenses/lpc/legs_formal.json",
+      "sha256": "f2791312a9527129e16b64588340aae8d7ac79a106a1dd782dc4bf4a2837099d",
+      "bytes": 2468
+    },
+    {
+      "path": "assets/licenses/lpc/neck_necktie.json",
+      "sha256": "388fcbb2c401d58a21bc33447f27ae1146de3bd6c24e22174b1d4ddd95978a50",
+      "bytes": 1450
+    },
+    {
+      "path": "assets/licenses/lpc/torso_clothes_longsleeve_formal.json",
+      "sha256": "b7479211a41b9da3d096f3d9878ccf883b8eed976666bc4197eec9fa9c5f7c97",
+      "bytes": 728
+    },
+    {
+      "path": "assets/licenses/lpc/torso_jacket_collared.json",
+      "sha256": "a49dc32bf716f270ad6a6337b2c3bde950c5bc5394496c4139415f5aea48aac8",
+      "bytes": 837
+    },
+    {
+      "path": "assets/licenses/lpc/hair_plain.json",
+      "sha256": "1d0f280b9b9ee41e2ae3ebe1f4323d9aca90bc29fddc2452500976dd3fc0be35",
+      "bytes": 1062
+    },
+    {
+      "path": "assets/licenses/lpc/hair_bangsshort.json",
+      "sha256": "cdb615e14751507408359eb252462016655b82a8807234cbc28d953cab5a3fce",
+      "bytes": 988
+    },
+    {
+      "path": "assets/licenses/lpc/hair_bangs.json",
+      "sha256": "e57bd6db66ebf83cca1bfbbb689cfaa6bec333803fc537213fbca2b30dd88d3d",
+      "bytes": 968
+    },
+    {
+      "path": "assets/licenses/lpc/heads_skeleton.json",
+      "sha256": "7727292078a407e8e650588ac225f7eed7763cab534da06f90d1e4c7ab1f088a",
+      "bytes": 969
+    },
+    {
+      "path": "assets/licenses/lpc/body_skeleton.json",
+      "sha256": "7e156135ca8435af305c4126ebfb65ee2b53f1faf5275bbe5edc5ae107ae905e",
+      "bytes": 870
+    },
+    {
+      "path": "assets/portraits/mie.png",
+      "sha256": "0a0076ca5695fb185a42a1ad081f366597c25579bb1464bb173ca07e9b7fc427",
+      "bytes": 76419
+    },
+    {
+      "path": "assets/portraits/rei.png",
+      "sha256": "9451d6b58af1f7dece1e985da2f7f974bb687683cbbeb31e63dace77475effed",
+      "bytes": 87135
+    },
+    {
+      "path": "assets/portraits/ryoma.png",
+      "sha256": "6b698bac7e79e12ab1be6036d7730b0f3562fffdc419e36fd080889a86feb7ca",
+      "bytes": 84773
+    },
+    {
+      "path": "assets/portraits/satou.png",
+      "sha256": "9b25e660a160edbdfa3b7cdc4efdacd8c665d92f708a295c9d7f925ca86c1ef6",
+      "bytes": 100780
+    },
+    {
+      "path": "assets/portraits/terachi.png",
+      "sha256": "929ed82ed099561252c1e2bf20ac7db6dd01cefe62aa098eb124a85b3e0aa99c",
+      "bytes": 88725
+    },
+    {
+      "path": "assets/tiles/CoolSchool_tileset.png",
+      "sha256": "0d68a794ecd02e9b4368dddc90434c4a04e9c92fe8cabe65e9286f09c9e4acd1",
+      "bytes": 31819
+    },
+    {
+      "path": "assets/tiles/clock.png",
+      "sha256": "2e48831aa80bc7600dd7e827745e001debd5cea06f09071652e8f45b472ab80a",
+      "bytes": 1240
+    },
+    {
+      "path": "assets/tiles/coolschool_A2.png",
+      "sha256": "a6dcbbd162460b31c9cf2907e027945ada937d04126c40e9a90eeec2a9a24a91",
+      "bytes": 5436
+    },
+    {
+      "path": "assets/tiles/coolschool_A4.png",
+      "sha256": "0d12b9c0ae8d965c8fb7db3c0e1fc0c11ae3b2505fd8c8dec16ca90886a0e18a",
+      "bytes": 4453
+    },
+    {
+      "path": "assets/tiles/coolschool_B.png",
+      "sha256": "6a00db44d2d703a6c90843f7d254e0fc449fba95fffa8972d3aaad789a7affc1",
+      "bytes": 34512
+    },
+    {
+      "path": "assets/tiles/copier.png",
+      "sha256": "31293ff9ae02bbe0b6ca2354c0444fab3a4a83d2a0fcd1f483760feca014661a",
+      "bytes": 1404
+    },
+    {
+      "path": "assets/tiles/desk.png",
+      "sha256": "670e1d6ca399f2207ea4c074d8e29c7ddc6fff92c58752ecdd0b076a67a39eda",
+      "bytes": 2742
+    },
+    {
+      "path": "assets/tiles/parquet.png",
+      "sha256": "250375b18208e694102b855ab0a9da65e288f52d8bf4a5bf12a2955cbd451e6b",
+      "bytes": 2165
+    },
+    {
+      "path": "assets/tiles/plants.png",
+      "sha256": "f48ea3ec96136aa8935abdfd69bf53b6211c2c9866cb4c5b94ac135bc5151fdc",
+      "bytes": 8570
+    },
+    {
+      "path": "assets/tiles/school.png",
+      "sha256": "b59fb77847785c08b9a0fb64bc7f0e3d4a15e6cf3961d520ef9609e5976655c2",
+      "bytes": 31145
+    },
+    {
+      "path": "assets/tiles/shelf.png",
+      "sha256": "7e2bed1a15206af3d3024c8caedcf6809566024bf849911c9bd40ccdbf7ca01e",
+      "bytes": 1735
+    },
+    {
+      "path": "assets/tiles/tile.png",
+      "sha256": "3ba4879c03e8d3c2334bfc87540a9a51dcec08b8ea877330d0ad0e6afd37ba1f",
+      "bytes": 1395
+    },
+    {
+      "path": "assets/tiles/vending.png",
+      "sha256": "17204482c7059b60b0aad5c39d959008f6a8709f44dfc65db599f8634c233046",
+      "bytes": 2284
+    },
+    {
+      "path": "assets/tiles/walls.png",
+      "sha256": "93303c755db676a7010d2b40ae9d050e12541494e5734a3019c0b608145c9ce3",
+      "bytes": 11791
+    },
+    {
+      "path": "assets/tiles/wood.png",
+      "sha256": "dbce22679bc0469c4063c626504d98b469b2fdf279e9630b7021ffbcfb113f9d",
+      "bytes": 2036
+    },
+    {
+      "path": "assets/monsters/LICENSE.txt",
+      "sha256": "4f49f48fd58f5cc259637cded47606efd8ae07e4f8a335f27d7f8516b4db1a9f",
+      "bytes": 427
+    },
+    {
+      "path": "assets/monsters/correction-walk.png",
+      "sha256": "5eba04a6cbddf24d867d0642a98f6aaff26cee10913e05476eb155c6bd77d098",
+      "bytes": 11524
+    },
+    {
+      "path": "assets/monsters/correction-cast.png",
+      "sha256": "378265ac0fafe5693f11645a47ba0406c5553f50079debe556e737aa5f70e0ca",
+      "bytes": 13150
+    }
+  ]
+}

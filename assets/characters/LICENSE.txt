@@ -1,0 +1,21 @@
+These composite LPC character sprites and portraits are derivatives licensed under
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+https://creativecommons.org/licenses/by-sa/3.0/
+https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+See ../../CREDITS.md and ../licenses/lpc/ for all original authors and sources.
+Modifications: layer compositing, crop, hair/uniform palette adjustments,
+small headphone detail on Terachi, sprite portrait scaling.
+
+This notice concerns the LPC-derived pixel sprites in this directory, not the
+user-provided illustrations in ../portraits/ or original novel character rights.
+
+2026-10-14 character-likeness revision:
+Additional LPC bangs, short bangs and plain hair layers; per-pose crown/fringe
+retargeting; asymmetric hair locks; character-specific hair palettes;
+transparent glasses lenses; half-lidded eye edits; revised headphone details.
+Body and limb animation remains LPC-derived. See scripts/character_designs.json.
+
+Further revision: reference-led head contour, strand, face and glasses edits;
+LPC hair shading retargeted to the new contour; export at 128px, world size 64px.
+Terachi is center-parted per user correction. See ../../scripts/pixel_heads.py.

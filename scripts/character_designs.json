@@ -1,0 +1,67 @@
+{
+  "mie": {
+    "palette": [
+      "#19181b",
+      "#292424",
+      "#38312c",
+      "#4b4138",
+      "#5a4d40"
+    ],
+    "description": "短い暗褐色の髪。細かい不揃いな前髪と短い耳側。細い長方形の黒縁眼鏡、控えめな目元。",
+    "source_cell": 128,
+    "world_cell": 64,
+    "head_editor": "scripts/pixel_heads.py"
+  },
+  "ryoma": {
+    "palette": [
+      "#302023",
+      "#542c28",
+      "#783e2d",
+      "#9c563b",
+      "#b57450"
+    ],
+    "description": "立ち上がった赤茶の短髪、角度の付いた眉、細い黒縁眼鏡。他の4人と異なり元絵にある額を残す。",
+    "source_cell": 128,
+    "world_cell": 64,
+    "head_editor": "scripts/pixel_heads.py"
+  },
+  "rei": {
+    "palette": [
+      "#181920",
+      "#292832",
+      "#3a3745",
+      "#514b5b",
+      "#6a6174"
+    ],
+    "description": "紫がかった暗い髪。柔らかい外周のレイヤー、目の直上まで下りる細かい毛束。両目を残す。",
+    "source_cell": 128,
+    "world_cell": 64,
+    "head_editor": "scripts/pixel_heads.py"
+  },
+  "terachi": {
+    "palette": [
+      "#15191e",
+      "#252d35",
+      "#333c47",
+      "#4a5665",
+      "#647282"
+    ],
+    "description": "爽やかなセンター分け。分け目の根元を持ち上げ、左右へ流す短い前髪。耳側と襟足を軽くし、目を隠さない。首元のヘッドフォン。",
+    "source_cell": 128,
+    "world_cell": 64,
+    "head_editor": "scripts/pixel_heads.py"
+  },
+  "satou": {
+    "palette": [
+      "#14171b",
+      "#23272c",
+      "#33363c",
+      "#494d55",
+      "#626770"
+    ],
+    "description": "黒く最も重い前髪、絡んだ毛束、目にかかる裾。頭頂と横の乱れが強く、下を向いた細い目。",
+    "source_cell": 128,
+    "world_cell": 64,
+    "head_editor": "scripts/pixel_heads.py"
+  }
+}
