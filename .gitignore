@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+google_drive/
+playwright-report/
+test-results/
+
+.venv/
