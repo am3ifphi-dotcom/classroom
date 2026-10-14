@@ -1,0 +1,6 @@
+Correction-sheet enemy textures: CC0 1.0.
+Based on Cool School by NettySvit: https://opengameart.org/content/cool-school-tileset
+Source crop: ../tiles/CoolSchool_tileset.png at (290,541,37,33).
+Modifications: recoloring, page flex/rotation, red correction cross, chalk flakes.
+The project additions to these two PNGs are also dedicated under CC0 1.0.
+See ../../CREDITS.md. No skeleton images are included in the current build.
